@@ -1,38 +1,50 @@
 [
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
     }
 ]

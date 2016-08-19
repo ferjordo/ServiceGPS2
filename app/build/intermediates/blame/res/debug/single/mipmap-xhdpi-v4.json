@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

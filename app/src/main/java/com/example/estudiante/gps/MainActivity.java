@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Ubicacion ub = new Ubicacion(this);
+
         gps = new GPSDataContentProvider();
 
         if(gps.onCreate()){

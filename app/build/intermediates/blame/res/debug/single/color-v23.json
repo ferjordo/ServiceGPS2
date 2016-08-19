@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Carlos\\Desktop\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\home\\nathali\\AndroidStudioProjects\\ServiceGPS2\\C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]
