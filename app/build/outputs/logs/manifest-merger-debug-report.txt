@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+receiver#com.example.estudiante.gps.Broadcast
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:9:9-14:20
+	android:enabled
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:9:19-44
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:11:13-13:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:12:17-86
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:12:25-76
+service#com.example.estudiante.gps.DataService
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:15:5-17:35
+	android:exported
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:16:9-36
+activity#com.example.estudiante.gps.MainActivity
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Soul\Documents\Android\GPS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Soul\Documents\Android\GPS\app\src\main\AndroidManifest.xml
