@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\Users\\Soul\\Documents\\Android\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/home/nathali/AndroidStudioProjects/ServiceGPS2/C:\\home\\estudiante\\AndroidStudioProjects\\GPS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]
